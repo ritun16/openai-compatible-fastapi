@@ -1,0 +1,10 @@
+openai
+streamlit
+azure-core
+azure-communication-email
+vllm
+transformers
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
