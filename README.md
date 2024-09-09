@@ -39,7 +39,7 @@ Welcome to the **OpenAI-Compatible API with Open-Source LLMs** repository! This 
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/openai-compatible-api.git](https://github.com/ritun16/openai-compatible-fastapi.git)
+   git clone https://github.com/ritun16/openai-compatible-fastapi.git
    cd openai-compatible-fastapi
    ```
 2. **Create Virtual Environment**:
